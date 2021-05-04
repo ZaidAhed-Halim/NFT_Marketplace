@@ -2,7 +2,7 @@
   "name": "nft_marketplace",
   "version": "0.1.0",
   "description": "Nft Factory",
-  "author": "Arvrse Studio",
+  "author": "zaid halem",
   "dependencies": {
     "@openzeppelin/contracts": "^3.4.0",
     "@truffle/hdwallet-provider": "^1.2.6",
